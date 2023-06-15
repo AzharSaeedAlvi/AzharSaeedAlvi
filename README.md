@@ -1,8 +1,12 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Azhar Saeed Alvi</h1>
-<h3 align="center">Developer in the Making</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azharsaeedalvi&label=Profile%20views&color=0e75b6&style=flat" alt="azharsaeedalvi" /> 
+<h3 align="center">Crafting Code, Shaping Dreams</h3>  
+
+<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />  
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azharsaeedalvi&label=Profile%20views&color=0e75b6&style=flat" alt="azharsaeedalvi" /> </p> 
 - 🌱 I’m currently learning **WebDevelopment**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
@@ -14,12 +18,10 @@
 - 📫 How to reach me **azhar.s.alvi@gmail.com**
 
 - ⚡ Fun fact **Dark Dark humor is like food: not everyone gets it.**
-<p align="right"> <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="coding" width="300" />  
-</p>
 
 
 
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azharsaeedalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azharsaeedalvi" height="30" width="40" /></a>
