@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **azhar.s.alvi@gmail.com**
 
-- ⚡ Fun fact **Dark Dark humor is like food: not everyone gets it.**
+- ⚡ Fun fact **Dark humour is like food: not everyone gets it.**
 
 
 
