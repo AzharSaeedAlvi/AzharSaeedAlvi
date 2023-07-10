@@ -35,7 +35,9 @@
 <!-- Because this shows language contribution only to public repositories -->
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true&locale=en" alt="azharsaeedalvi&theme=tokyonight" /></p>
-<p> </p>
+<p> 
+  &nbsp
+</p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=azharsaeedalvi&theme=tokyonight" alt="azharsaeedalvi" /></p>
 
 
