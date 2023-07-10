@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharsaeedalvi&label=Profile%20views&color=0e75b6&style=flat" alt="azharsaeedalvi" /> </p> 
-- 🌱 I’m currently learning **WebDevelopment**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
@@ -34,11 +34,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azharsaeedalvi&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="azharsaeedalvi" /></p> -->
 <!-- Because this shows language contribution only to public repositories -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true&locale=en" alt="azharsaeedalvi&theme=tokyonight" /></p>
-<p> 
-  &nbsp
-</p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=azharsaeedalvi&theme=tokyonight" alt="azharsaeedalvi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true&locale=en" alt="azharsaeedalvi&theme=tokyonight" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azharsaeedalvi&theme=tokyonight" alt="azharsaeedalvi" /></p>
 
 
 
