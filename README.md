@@ -8,7 +8,8 @@
 - 🌱 Currently learning **Web Dev, DevOps & AI/ML**
 - 🛠️ Building open source & side projects
 - 📫 Reach me at: **azhar.s.alvi@gmail.com**
-- ⚡ Fun fact: *I tell my code it’s beautiful, even when it misbehaves. 🤫*  
+- ⚡ Fun fact: *I don’t fix bugs, I just challenge them to keep up.* 😎
+
 
 ---
 
