@@ -1,5 +1,3 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-
 <h1 align="center">Hi 👋, I'm Azhar Alvi</h1>
 <h3 align="center">Crafting Code, Shaping Dreams 🚀</h3>
 
