@@ -1,44 +1,71 @@
-<h1 align="center">Hi 👋, I'm Azhar Alvi</h1>
-<h3 align="center">Crafting Code, Shaping Dreams 🚀</h3>
+<h1 align="center">Hi there 👋, I'm Azhar Alvi</h1>
+<h3 align="center">Engineer by discipline, developer by choice. Let’s build something legendary. 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+---
 
-- 🌱 Currently learning **Web Dev, DevOps & AI/ML**
-- 🛠️ Building open source & side projects
+### 🧠 About Me
+- 🔭 Currently exploring **Web Dev, DevOps, and AI/ML**
+- 🛠️ Building **side projects** & contributing to **open-source**
+- ✍️ I work with **code**, but I think in **systems**
 - 📫 Reach me at: **azhar.s.alvi@gmail.com**
-- ⚡ Fun fact: *I don’t fix bugs, I just challenge them to keep up.* 😎
-
-
----
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azharsaeedalvi)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22047695/crypt)
+- ⚡ Fun Fact: *Sometimes I debug by staring—works 60% of the time, every time.*
 
 ---
 
-### 🧰 Languages & Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"/>
-</p>
+### 🚧 Current Projects
+- A full-stack **queue management system** for real-world use
+- Building a **developer-ready portfolio** to break into remote roles
+- Learning **cloud infrastructure** and **machine learning pipelines**
+
+---
+
+### 🛠️ Tools & Technologies
+
+#### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat&logo=mathworks)
+
+#### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)  
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+
+#### ☁️ DevOps & Cloud  
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)  
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
+
+#### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
 ---
 
 ### 📊 GitHub Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true" height="160"/>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=azharsaeedalvi&theme=tokyonight" height="160"/>
 </p>
+
 <br/><br/><br/><br/><br/><br/>
 
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azharsaeedalvi)  
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22047695/crypt)
+
+---
+
+> *"If it were easy, everyone would do it. I choose to be the exception."*
