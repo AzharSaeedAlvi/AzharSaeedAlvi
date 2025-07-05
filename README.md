@@ -34,13 +34,13 @@ Proactive backend developer transitioning from a client-facing SaaS product role
 
 #### ⚙️ Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
-![JPA](https://img.shields.io/badge/-JPA-black?style=flat&logo=java)
-![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat&logo=hibernate)
+<!-- (![JPA](https://img.shields.io/badge/-JPA-black?style=flat&logo=java) ) -->
+<!--![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat&logo=hibernate) -->
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+<!--![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) -->
 
 #### ☁️ DevOps & Cloud  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
