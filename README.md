@@ -34,13 +34,10 @@ Proactive backend developer transitioning from a client-facing SaaS product role
 
 #### ⚙️ Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
-<!-- (![JPA](https://img.shields.io/badge/-JPA-black?style=flat&logo=java) ) -->
-<!--![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat&logo=hibernate) -->
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-<!--![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) -->
 
 #### ☁️ DevOps & Cloud  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -57,22 +54,27 @@ Proactive backend developer transitioning from a client-facing SaaS product role
 
 ---
 
+### ⏱️ Coding Activity (via WakaTime)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Azhar_Alvi&layout=compact&theme=tokyonight)
+
+---
+
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true" height="160"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=azharsaeedalvi&theme=tokyonight" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharsaeedalvi&theme=tokyonight" height="160"/>
 </p>
-
-<br/><br/><br/><br/><br/><br/>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azharsaeedalvi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/azharsaeedalvi)  
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22047695/crypt)
 
 ---
 
-> *"If it were easy, everyone would do it. I choose to be the exception."*
+> *\"If it were easy, everyone would do it. I choose to be the exception.\"*
+
