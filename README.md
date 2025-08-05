@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Azhar Alvi</h1>
-<h3 align="center">Disciplined by engineering, driven by code. Let’s build something that lasts. 💻⚙️</h3>
+<h3 align="center">I'm scared that one day I wake up and wonder where the time go 💻⚙️</h3>
 
 Proactive backend developer transitioning from a client-facing SaaS product role with a strong foundation in Java, Spring Boot, and REST API development. Currently building scalable, secure, and cloud-ready backend services with PostgreSQL and Docker. Hands-on experience with Agile environments and a deep understanding of software development lifecycle from a product perspective. Passionate about building real-world solutions with performance and reliability in mind.
 
