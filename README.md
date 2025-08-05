@@ -76,5 +76,6 @@ Proactive backend developer transitioning from a client-facing SaaS product role
 
 ---
 
-> *\"If it were easy, everyone would do it. I choose to be the exception.\"*
+> *\"I don't tend to take the easy road
+That's just not the way I like to roll"*
 
