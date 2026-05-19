@@ -1,92 +1,114 @@
 <div align="center">
 
-# Hey, I'm Azhar 👋
+# Hi, I'm Azhar
 
-**Backend & Cloud Engineer in the making · SaaS Consultant by day · Builder by choice**
+**Senior Product Consultant · Integration Builder · Quiet Automator**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/azharsaeedalvi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://azharsaeedalvi.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:azhar.s.alvi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1216?style=for-the-badge&logoColor=white)](https://azharsaeedalvi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B2C2C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azharsaeedalvi)
+[![Dribbble](https://img.shields.io/badge/Dribbble-1A1216?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/AzharSaeedAlvi)
+[![Email](https://img.shields.io/badge/Email-8B2C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhar.s.alvi@gmail.com)
+
+<br />
+
+*I solve problems with whatever tool fits — code, no-code, or something I haven't built yet.*
 
 </div>
 
 ---
 
-### 🧭 About Me
+### ▸ The short version
 
-I started in Chemical Engineering, pivoted into enterprise SaaS consulting, and now I'm deep in the transition to backend and cloud engineering — because I'd rather build the systems I used to sell.
+Senior Product Consultant at **Cvent** by day. Builder, automator, and occasional engineer by everything else.
 
-Currently learning in public and building real things:
-
-- 🛠️ Focused on **JavaScript, Node.js, and the MERN stack**
-- 🐧 Getting comfortable with **Linux, Docker, and shell scripting**
-- ☁️ Roadmap points toward **AWS, Kubernetes, and distributed systems**
-- 🏗️ Building a **queue management system** as a real-world backend project
-- 💼 2+ years working client-side on enterprise SaaS — I understand the product, not just the code
-
-> *I think in systems. I build to understand.*
+I work with whatever fits the problem. The Glean agents weren't a Glean tutorial — they were because field selection errors were costing my team hours. The Chrome extensions weren't a JavaScript exercise — they were because manual handoffs were slow. I don't build to learn. I learn to build.
 
 ---
 
-### 🛠️ Tech I'm Working With
+### ▸ What's on my plate right now
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**DevOps & Cloud (Learning)**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- Shipping AI agents on **Glean** for internal workflows
+- Writing **Chrome extensions** that quietly fix annoying processes
+- Building a queue management system in **Node.js + PostgreSQL**
+- Getting fluent with system design and backend architecture
+- Reading *Never Split the Difference* by Chris Voss
+- Mapping the path from Solutions Engineer to Product Manager
 
 ---
 
-### 🚧 What I'm Building
+### ▸ Recently shipped
 
-| Project | Description | Status |
+| Project | What it does | Status |
 |---|---|---|
-| 🎟️ Queue Management System | Full-stack app for real-world queue handling | In progress |
-| 🌐 Portfolio Site | Personal portfolio — built with vanilla HTML/CSS/JS | [Live ↗](https://azharsaeedalvi.github.io) |
-| 🐳 Dockerised Node API | REST API containerised with Docker & Compose | Planned |
+| **Email Redrafting Agent** | Glean AI agent that redrafts emails based on urgency and client context | Live |
+| **Field Selection Agent** | Glean AI agent that guides users through correct configuration | Live |
+| **Knowledge Request Manager** | Chrome extension auto-pulling Salesforce data into SharePoint | Live |
+| **Website Time Tracker** | Chrome extension aggregating team workflow analytics | Live |
+| **Personal Portfolio** | Vanilla JS, dual themes, fully accessible | [Live ↗](https://azharsaeedalvi.github.io) |
+| **Queue Management System** | Full-stack scheduling app, Node.js + PostgreSQL | In progress |
 
 ---
 
-### 📊 GitHub Stats
+### ▸ My toolkit
+
+**Languages & Backend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1216?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1A1216?style=flat-square&logo=python&logoColor=FFD43B)
+![Node.js](https://img.shields.io/badge/Node.js-1A1216?style=flat-square&logo=node.js&logoColor=8CC84B)
+![Express](https://img.shields.io/badge/Express-1A1216?style=flat-square&logo=express&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-1A1216?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1216?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1216?style=flat-square&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-1A1216?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1A1216?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-1A1216?style=flat-square&logo=git&logoColor=F05032)
+
+**Automation & SaaS**
+
+![Glean](https://img.shields.io/badge/Glean-8B2C2C?style=flat-square&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-1A1216?style=flat-square&logo=microsoft&logoColor=ffffff)
+![SharePoint](https://img.shields.io/badge/SharePoint-1A1216?style=flat-square&logo=microsoft-sharepoint&logoColor=ffffff)
+![Salesforce](https://img.shields.io/badge/Salesforce-1A1216?style=flat-square&logo=salesforce&logoColor=00A1E0)
+![Cvent](https://img.shields.io/badge/Cvent-8B2C2C?style=flat-square&logoColor=white)
+
+**Learning next** — AWS · Kubernetes · Advanced system design
+
+---
+
+### ▸ A few things worth knowing
+
+- I came to engineering through enterprise SaaS consulting, not the other way around. That's a feature, not a bug — I understand what clients actually need before I try to build it.
+- I prefer shipped imperfect over perfect unfinished. The Glean agents went live in a week. They've been improving since.
+- I think a lot about the gap between *building something* and *building something worth building*. Most of my work lives in that gap.
+- ENTJ by personality test, INTJ by behaviour. Strategic before tactical. Quiet before loud.
+
+---
 
 <div align="center">
 
-![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azharsaeedalvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azharsaeedalvi&theme=tokyonight&layout=compact&hide_border=true)
+### ▸ GitHub at a glance
+
+<img src="https://github-readme-stats.vercel.app/api?username=AzharSaeedAlvi&show_icons=true&theme=transparent&hide_border=true&title_color=8B2C2C&icon_color=8B2C2C&text_color=8A7F7E&hide=stars" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharSaeedAlvi&layout=compact&theme=transparent&hide_border=true&title_color=8B2C2C&text_color=8A7F7E" height="165" alt="Top Languages" />
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### ▸ Let's talk
 
-If you're working on something in the backend/cloud space, want to collaborate on an open-source project, or just want to talk systems — reach out.
+If you're building something in the integration, automation, or product space — or just want to talk systems, strategy, or how SaaS consultants quietly turn into engineers — reach out.
 
 📧 [azhar.s.alvi@gmail.com](mailto:azhar.s.alvi@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/azharsaeedalvi) · 🌐 [Portfolio](https://azharsaeedalvi.github.io)
 
 ---
 
 <div align="center">
-<sub>ChemEng → SaaS → Backend & Cloud. Still figuring it out, one commit at a time.</sub>
+
+*Operating quietly. Building deliberately.*
+
 </div>
