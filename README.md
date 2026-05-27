@@ -45,7 +45,6 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 | **Knowledge Request Manager** | Chrome extension auto-pulling Salesforce data into SharePoint | Live |
 | **Website Time Tracker** | Chrome extension aggregating team workflow analytics | Live |
 | **Personal Portfolio** | Vanilla JS, dual themes, fully accessible | [Live ↗](https://azharsaeedalvi.github.io) |
-| **Queue Management System** | Full-stack scheduling app, Node.js + PostgreSQL | In progress |
 
 ---
 
