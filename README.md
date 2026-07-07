@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4" width="100%" alt="divider"/>
 
 ## ▸ The short version
 
@@ -23,7 +23,7 @@ Senior Product Consultant at **Cvent** by day. Builder, automator, and occasiona
 
 I work with whatever fits the problem. The Glean agents weren't a Glean tutorial — they were because field-selection errors were costing my team hours. The Chrome extensions weren't a JavaScript exercise — they were because manual handoffs were slow. **I don't build to learn. I learn to build.**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4" width="100%" alt="divider"/>
 
 ## ▸ What I'm working on right now
 
@@ -36,7 +36,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 ◆ Mapping the path from Solutions Consultant toward Product Management
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4" width="100%" alt="divider"/>
 
 ## ▸ Things I've shipped
 
@@ -51,7 +51,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 > 💬 Most of my builds live inside Cvent's stack, so they aren't public repos — happy to walk through any of them on a call.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&heigh" width="100%" alt="divider"/>
 
 ## ▸ My toolkit
 
@@ -97,7 +97,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 - I think a lot about the gap between *building something* and *building something worth building*. Most of my work lives in that gap.
 - ENTJ by personality test, INTJ by behaviour. Strategic before tactical. Quiet before loud.
 
-<img src="https://capsule-" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 </div>
 
-<img src="https://singlecolorimage.com/get/7C3AED/1200x3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
 
 ## ▸ Let's talk
 
