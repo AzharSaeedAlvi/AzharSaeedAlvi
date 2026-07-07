@@ -51,7 +51,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 > 💬 Most of my builds live inside Cvent's stack, so they aren't public repos — happy to walk through any of them on a call.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&heigh" width="100%" alt="divider"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&heigh" width="100%" alt="divider"/> -->
 
 ## ▸ My toolkit
 
@@ -88,7 +88,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 **🧭 Exploring next** — Docker · AWS · Kubernetes · Advanced system design
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/> 
 
 ## ▸ A few things worth knowing
 
@@ -101,7 +101,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 <div align="center">
 
-## ▸ GitHub at a glance
+<!--## ▸ GitHub at a glance
 
 <img src="https://github-readme-stats.vercel.app/api?username=AzharSaeedAlvi&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=8A7F7E&hide=stars" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzharSaeedAlvi&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=8A7F7E&dates=8A7F7E&currStreakNum=8A7F7E&sideNums=8A7F7E" height="165" alt="GitHub Streak" />
@@ -113,6 +113,8 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&height=4&width=100%" width="100%" alt="divider"/>
+
+-->
 
 ## ▸ Let's talk
 
