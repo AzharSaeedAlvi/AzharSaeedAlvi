@@ -1,3 +1,10 @@
+##Hi There, I am Azhar. 
+
+## Currently working on a few things, will update this shortly. 
+
+## Feel Free to connect via Linkedin.
+
+<!--
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1216,100:7C3AED&height=200&section=header&text=Hi,%20I'm%20Azhar%20👋&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Senior%20Product%20Consultant%20·%20Integration%20Builder%20·%20Quiet%20Automator&descAlignY=60&descSize=16&descAlign=50" width="100%" alt="header"/>
@@ -53,6 +60,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:6D28D9&heigh" width="100%" alt="divider"/> -->
 
+<!--
 ## ▸ My toolkit
 
 <table>
@@ -116,6 +124,7 @@ I work with whatever fits the problem. The Glean agents weren't a Glean tutorial
 
 -->
 
+<!--
 ## ▸ Let's talk
 
 If you're building something in the integration, automation, or product space — or just want to talk systems, strategy, or how SaaS consultants quietly turn into engineers — reach out.
@@ -128,4 +137,5 @@ If you're building something in the integration, automation, or product space �
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1A1216&height=120&section=footer&text=Operating%20quietly.%20Building%20deliberately.&fontColor=ffffff&fontSize=18&fontAlignY=75" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1A1216&height=120&section=footer&text=Operating%20quietly.%20Building%20deliberately.&fontColor=ffffff&fontSize=18&fontAlignY=75" width="100%" alt="footer"/
+--> 
