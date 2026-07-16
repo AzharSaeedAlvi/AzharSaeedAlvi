@@ -2,7 +2,11 @@
 
 ## Currently working on a few things, will update this shortly. 
 
-## Feel Free to connect via Linkedin.
+## Feel Free to connect via Linkedin
+
+## Coding Habits 
+<!-- Will be adding all the information and practices that I feel is useful and I want to remember and implement. -->
+1. Commit small, commit often, write real messages. 
 
 <!--
 <div align="center">
