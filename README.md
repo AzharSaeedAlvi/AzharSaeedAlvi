@@ -8,6 +8,15 @@
 <!-- Will be adding all the information and practices that I feel is useful and I want to remember and implement. -->
 1. Commit small, commit often, write real messages. 
 
+
+
+
+
+
+
+## Side Tools 
+<!-- This will contain all the tools, I either self created or I feel are worth using.  -->
+1. A Timer that : Stores the amount of time worked. Sound alerts, browser notification, pause, reset, skip break, variable work and break time feature. [Created for personal use] utilizing Claude. Will add a shareable file once it is up to my standards.
 <!--
 <div align="center">
 
